@@ -14,3 +14,14 @@ MonoBehaviour:
   DatabaseMode: 0
   Prefabs:
   - {fileID: 0}
+  - {fileID: 100000, guid: b5907a8b9fa4ef549b9dd4f8a9e863eb, type: 2}
+  - {fileID: 100000, guid: 9e4c13062a8548e438c26a67020d9895, type: 2}
+  - {fileID: 100000, guid: e6dd368eb36c92b429be2244b9da818a, type: 2}
+  - {fileID: 100000, guid: 6fa4400788352f44199064562f34048d, type: 2}
+  - {fileID: 188296, guid: 68182c621d68d6249aee2f07d5e93c1d, type: 2}
+  - {fileID: 1760237739261228, guid: 0e5aba4979e444340b5ba527b266572e, type: 2}
+  - {fileID: 155390, guid: ad727d7e1462ecc4f83c898ecc501997, type: 2}
+  - {fileID: 159818, guid: 2dfed64d13e7ae54190d0f63a2428993, type: 2}
+  - {fileID: 149790, guid: 7737647c22c1fc64a88d5cd030c352ce, type: 2}
+  - {fileID: 1878907428689890, guid: 24532d31df26172418a086cd5bb6eeb7, type: 2}
+  - {fileID: 1227388698566344, guid: e1c07f109b477f0498b0317b2aceefd3, type: 2}

@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/Menu.unity
+    guid: b4f7785fa3846ce449ff45efa3b596f4
+  - enabled: 1
+    path: Assets/Scenes/Elevator.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/bolt_samples/PhotonCloud/demo_simple/Scenes/PhotonTutorial.unity
+    guid: 0bcb9892017fbfc41af4c9e3fa47f0bd
   m_configObjects: {}
